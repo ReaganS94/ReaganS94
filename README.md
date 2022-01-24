@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
+<!-- [![MasterHead](your image link)](your GitHub link) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ReaganS94&show_icons=true&theme=midnight-purple" />
 </a>
