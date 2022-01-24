@@ -14,6 +14,6 @@
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reasan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="color: blue" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/reasan/" target="blank"><img align="center" src="https://github.com/ReaganS94/ReaganS94/blob/main/LI-Logo.png" style="color: blue" alt="" height="60" width="250" /></a>
 </p>
 </div>
