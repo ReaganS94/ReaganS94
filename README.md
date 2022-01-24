@@ -1,4 +1,6 @@
-<!-- [![MasterHead](your image link)](your GitHub link) -->
+
+![banner](https://github.com/ReaganS94/ReaganS94/blob/main/banner.png)
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ReaganS94&show_icons=true&theme=midnight-purple" />
 </a>
@@ -10,3 +12,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ReaganS94&theme=onedark" />
 </a>
+</div>
