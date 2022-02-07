@@ -48,4 +48,4 @@
   </p>
 
 
-[![asciicast](https://asciinema.org/a/20055.svg)](https://asciinema.org/a/20055)
+[![asciicast](https://asciinema.org/a/20055.svg)](https://asciinema.org/a/20055&about_blank)
