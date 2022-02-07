@@ -47,3 +47,4 @@
     <a href="https://www.linkedin.com/in/reasan/" target="blank"><img align="center" src="https://github.com/ReaganS94/ReaganS94/blob/main/LI-Logo.png" style="color: blue" alt=""      height="60" width="250" /></a>
   </p>
 
+[![asciicast](https://asciinema.org/a/20055.svg)](https://asciinema.org/a/20055)
