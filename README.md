@@ -29,10 +29,6 @@
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <hr/> 
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ReaganS94&show_icons=true&theme=midnight-purple" />
-  </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaganS94&theme=midnight-purple&layout=compact" />
